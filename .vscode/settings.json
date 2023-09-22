@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d4d520b1-fb59-42a7-b997-193679a8f433/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/LuisWii",
+    "appService.deploySubpath": "."
+}
